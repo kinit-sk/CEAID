@@ -2,7 +2,7 @@
 
 Source code for replication of the experiments in the paper [accepted](https://arxiv.org/abs/2509.26051) to the Findings of the ACL 2025 conference.
 
-CEAID dataset covering machine-generated and human-written texts in news and social-media domains for 7 Central European languages is available [here](https://zenodo.org/records/20391070).
+CEAID dataset covering machine-generated and human-written texts in news and social-media domains for 7 Central European languages is available [here](https://zenodo.org/records/20391070). An extension of the dataset for evaluation of adversarial robustness is available [here](https://zenodo.org/records/20397173).
 
 ## Cite
 If you use the data, code, or the information in this repository, cite the following paper, please (also available on [arXiv](https://arxiv.org/abs/2509.26051)).
